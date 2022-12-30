@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Business\\YiSha.Business.AutoJob\\YiSha.Business.AutoJob.csproj": {}
+    "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Business\\YiSha.Business.AutoJob\\YiSha.Business.AutoJob.csproj": {}
   },
   "projects": {
-    "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Business\\YiSha.Business.AutoJob\\YiSha.Business.AutoJob.csproj": {
+    "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Business\\YiSha.Business.AutoJob\\YiSha.Business.AutoJob.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Business\\YiSha.Business.AutoJob\\YiSha.Business.AutoJob.csproj",
+        "projectUniqueName": "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Business\\YiSha.Business.AutoJob\\YiSha.Business.AutoJob.csproj",
         "projectName": "YiSha.Business.AutoJob",
-        "projectPath": "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Business\\YiSha.Business.AutoJob\\YiSha.Business.AutoJob.csproj",
-        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Business\\YiSha.Business.AutoJob\\obj\\",
+        "projectPath": "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Business\\YiSha.Business.AutoJob\\YiSha.Business.AutoJob.csproj",
+        "packagesPath": "C:\\Users\\zcc\\.nuget\\packages\\",
+        "outputPath": "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Business\\YiSha.Business.AutoJob\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Software\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\zcc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,23 +26,25 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\Pakeage\\dm8_20221128_x86_win_64\\dm8_20221128_x86_win_64\\source\\drivers\\dotNet\\DmProvider": {},
+          "D:\\Pakeage\\dm8_20221128_x86_win_64\\dm8_20221128_x86_win_64\\source\\drivers\\dotNet\\EFCore.Dm5.0": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Business\\YiSha.Business\\YiSha.Business.csproj": {
-                "projectPath": "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Business\\YiSha.Business\\YiSha.Business.csproj"
+              "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Business\\YiSha.Business\\YiSha.Business.csproj": {
+                "projectPath": "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Business\\YiSha.Business\\YiSha.Business.csproj"
               },
-              "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Business\\YiSha.Service\\YiSha.Service.csproj": {
-                "projectPath": "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Business\\YiSha.Service\\YiSha.Service.csproj"
+              "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Business\\YiSha.Service\\YiSha.Service.csproj": {
+                "projectPath": "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Business\\YiSha.Service\\YiSha.Service.csproj"
               },
-              "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Entity\\YiSha.Entity\\YiSha.Entity.csproj": {
-                "projectPath": "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Entity\\YiSha.Entity\\YiSha.Entity.csproj"
+              "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Entity\\YiSha.Entity\\YiSha.Entity.csproj": {
+                "projectPath": "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Entity\\YiSha.Entity\\YiSha.Entity.csproj"
               },
-              "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Util\\YiSha.Util\\YiSha.Util.csproj": {
-                "projectPath": "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Util\\YiSha.Util\\YiSha.Util.csproj"
+              "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Util\\YiSha.Util\\YiSha.Util.csproj": {
+                "projectPath": "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Util\\YiSha.Util\\YiSha.Util.csproj"
               }
             }
           }
@@ -64,7 +70,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -73,21 +80,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Business\\YiSha.Business.Cache\\YiSha.Business.Cache.csproj": {
+    "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Business\\YiSha.Business.Cache\\YiSha.Business.Cache.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Business\\YiSha.Business.Cache\\YiSha.Business.Cache.csproj",
+        "projectUniqueName": "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Business\\YiSha.Business.Cache\\YiSha.Business.Cache.csproj",
         "projectName": "YiSha.Business.Cache",
-        "projectPath": "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Business\\YiSha.Business.Cache\\YiSha.Business.Cache.csproj",
-        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Business\\YiSha.Business.Cache\\obj\\",
+        "projectPath": "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Business\\YiSha.Business.Cache\\YiSha.Business.Cache.csproj",
+        "packagesPath": "C:\\Users\\zcc\\.nuget\\packages\\",
+        "outputPath": "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Business\\YiSha.Business.Cache\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Software\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\zcc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -95,20 +106,22 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\Pakeage\\dm8_20221128_x86_win_64\\dm8_20221128_x86_win_64\\source\\drivers\\dotNet\\DmProvider": {},
+          "D:\\Pakeage\\dm8_20221128_x86_win_64\\dm8_20221128_x86_win_64\\source\\drivers\\dotNet\\EFCore.Dm5.0": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Business\\YiSha.Service\\YiSha.Service.csproj": {
-                "projectPath": "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Business\\YiSha.Service\\YiSha.Service.csproj"
+              "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Business\\YiSha.Service\\YiSha.Service.csproj": {
+                "projectPath": "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Business\\YiSha.Service\\YiSha.Service.csproj"
               },
-              "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Cache\\YiSha.Cache.Factory\\YiSha.Cache.Factory.csproj": {
-                "projectPath": "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Cache\\YiSha.Cache.Factory\\YiSha.Cache.Factory.csproj"
+              "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Cache\\YiSha.Cache.Factory\\YiSha.Cache.Factory.csproj": {
+                "projectPath": "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Cache\\YiSha.Cache.Factory\\YiSha.Cache.Factory.csproj"
               },
-              "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Entity\\YiSha.Entity\\YiSha.Entity.csproj": {
-                "projectPath": "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Entity\\YiSha.Entity\\YiSha.Entity.csproj"
+              "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Entity\\YiSha.Entity\\YiSha.Entity.csproj": {
+                "projectPath": "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Entity\\YiSha.Entity\\YiSha.Entity.csproj"
               }
             }
           }
@@ -128,7 +141,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -137,21 +151,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Business\\YiSha.Business\\YiSha.Business.csproj": {
+    "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Business\\YiSha.Business\\YiSha.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Business\\YiSha.Business\\YiSha.Business.csproj",
+        "projectUniqueName": "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Business\\YiSha.Business\\YiSha.Business.csproj",
         "projectName": "YiSha.Business",
-        "projectPath": "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Business\\YiSha.Business\\YiSha.Business.csproj",
-        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Business\\YiSha.Business\\obj\\",
+        "projectPath": "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Business\\YiSha.Business\\YiSha.Business.csproj",
+        "packagesPath": "C:\\Users\\zcc\\.nuget\\packages\\",
+        "outputPath": "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Business\\YiSha.Business\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Software\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\zcc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -159,26 +177,28 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\Pakeage\\dm8_20221128_x86_win_64\\dm8_20221128_x86_win_64\\source\\drivers\\dotNet\\DmProvider": {},
+          "D:\\Pakeage\\dm8_20221128_x86_win_64\\dm8_20221128_x86_win_64\\source\\drivers\\dotNet\\EFCore.Dm5.0": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Business\\YiSha.Business.Cache\\YiSha.Business.Cache.csproj": {
-                "projectPath": "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Business\\YiSha.Business.Cache\\YiSha.Business.Cache.csproj"
+              "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Business\\YiSha.Business.Cache\\YiSha.Business.Cache.csproj": {
+                "projectPath": "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Business\\YiSha.Business.Cache\\YiSha.Business.Cache.csproj"
               },
-              "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Business\\YiSha.Service\\YiSha.Service.csproj": {
-                "projectPath": "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Business\\YiSha.Service\\YiSha.Service.csproj"
+              "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Business\\YiSha.Service\\YiSha.Service.csproj": {
+                "projectPath": "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Business\\YiSha.Service\\YiSha.Service.csproj"
               },
-              "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Entity\\YiSha.Entity\\YiSha.Entity.csproj": {
-                "projectPath": "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Entity\\YiSha.Entity\\YiSha.Entity.csproj"
+              "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Entity\\YiSha.Entity\\YiSha.Entity.csproj": {
+                "projectPath": "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Entity\\YiSha.Entity\\YiSha.Entity.csproj"
               },
-              "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Entity\\YiSha.Enum\\YiSha.Enum.csproj": {
-                "projectPath": "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Entity\\YiSha.Enum\\YiSha.Enum.csproj"
+              "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Entity\\YiSha.Enum\\YiSha.Enum.csproj": {
+                "projectPath": "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Entity\\YiSha.Enum\\YiSha.Enum.csproj"
               },
-              "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Util\\YiSha.CodeGenerator\\YiSha.CodeGenerator.csproj": {
-                "projectPath": "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Util\\YiSha.CodeGenerator\\YiSha.CodeGenerator.csproj"
+              "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Util\\YiSha.CodeGenerator\\YiSha.CodeGenerator.csproj": {
+                "projectPath": "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Util\\YiSha.CodeGenerator\\YiSha.CodeGenerator.csproj"
               }
             }
           }
@@ -198,7 +218,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -207,21 +228,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Business\\YiSha.Service\\YiSha.Service.csproj": {
+    "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Business\\YiSha.Service\\YiSha.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Business\\YiSha.Service\\YiSha.Service.csproj",
+        "projectUniqueName": "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Business\\YiSha.Service\\YiSha.Service.csproj",
         "projectName": "YiSha.Service",
-        "projectPath": "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Business\\YiSha.Service\\YiSha.Service.csproj",
-        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Business\\YiSha.Service\\obj\\",
+        "projectPath": "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Business\\YiSha.Service\\YiSha.Service.csproj",
+        "packagesPath": "C:\\Users\\zcc\\.nuget\\packages\\",
+        "outputPath": "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Business\\YiSha.Service\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Software\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\zcc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -229,29 +254,31 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\Pakeage\\dm8_20221128_x86_win_64\\dm8_20221128_x86_win_64\\source\\drivers\\dotNet\\DmProvider": {},
+          "D:\\Pakeage\\dm8_20221128_x86_win_64\\dm8_20221128_x86_win_64\\source\\drivers\\dotNet\\EFCore.Dm5.0": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Data\\YiSha.Data.Repository\\YiSha.Data.Repository.csproj": {
-                "projectPath": "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Data\\YiSha.Data.Repository\\YiSha.Data.Repository.csproj"
+              "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Data\\YiSha.Data.Repository\\YiSha.Data.Repository.csproj": {
+                "projectPath": "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Data\\YiSha.Data.Repository\\YiSha.Data.Repository.csproj"
               },
-              "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Entity\\YiSha.Entity\\YiSha.Entity.csproj": {
-                "projectPath": "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Entity\\YiSha.Entity\\YiSha.Entity.csproj"
+              "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Entity\\YiSha.Entity\\YiSha.Entity.csproj": {
+                "projectPath": "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Entity\\YiSha.Entity\\YiSha.Entity.csproj"
               },
-              "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Entity\\YiSha.Enum\\YiSha.Enum.csproj": {
-                "projectPath": "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Entity\\YiSha.Enum\\YiSha.Enum.csproj"
+              "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Entity\\YiSha.Enum\\YiSha.Enum.csproj": {
+                "projectPath": "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Entity\\YiSha.Enum\\YiSha.Enum.csproj"
               },
-              "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Entity\\YiSha.Model\\YiSha.Model.csproj": {
-                "projectPath": "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Entity\\YiSha.Model\\YiSha.Model.csproj"
+              "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Entity\\YiSha.Model\\YiSha.Model.csproj": {
+                "projectPath": "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Entity\\YiSha.Model\\YiSha.Model.csproj"
               },
-              "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Util\\YiSha.IdGenerator\\YiSha.IdGenerator.csproj": {
-                "projectPath": "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Util\\YiSha.IdGenerator\\YiSha.IdGenerator.csproj"
+              "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Util\\YiSha.IdGenerator\\YiSha.IdGenerator.csproj": {
+                "projectPath": "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Util\\YiSha.IdGenerator\\YiSha.IdGenerator.csproj"
               },
-              "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Util\\YiSha.Util\\YiSha.Util.csproj": {
-                "projectPath": "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Util\\YiSha.Util\\YiSha.Util.csproj"
+              "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Util\\YiSha.Util\\YiSha.Util.csproj": {
+                "projectPath": "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Util\\YiSha.Util\\YiSha.Util.csproj"
               }
             }
           }
@@ -271,7 +298,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -280,21 +308,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Cache\\YiSha.Cache.Factory\\YiSha.Cache.Factory.csproj": {
+    "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Cache\\YiSha.Cache.Factory\\YiSha.Cache.Factory.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Cache\\YiSha.Cache.Factory\\YiSha.Cache.Factory.csproj",
+        "projectUniqueName": "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Cache\\YiSha.Cache.Factory\\YiSha.Cache.Factory.csproj",
         "projectName": "YiSha.Cache.Factory",
-        "projectPath": "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Cache\\YiSha.Cache.Factory\\YiSha.Cache.Factory.csproj",
-        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Cache\\YiSha.Cache.Factory\\obj\\",
+        "projectPath": "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Cache\\YiSha.Cache.Factory\\YiSha.Cache.Factory.csproj",
+        "packagesPath": "C:\\Users\\zcc\\.nuget\\packages\\",
+        "outputPath": "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Cache\\YiSha.Cache.Factory\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Software\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\zcc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -302,23 +334,25 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\Pakeage\\dm8_20221128_x86_win_64\\dm8_20221128_x86_win_64\\source\\drivers\\dotNet\\DmProvider": {},
+          "D:\\Pakeage\\dm8_20221128_x86_win_64\\dm8_20221128_x86_win_64\\source\\drivers\\dotNet\\EFCore.Dm5.0": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Cache\\YiSha.Cache.Interface\\YiSha.Cache.Interface.csproj": {
-                "projectPath": "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Cache\\YiSha.Cache.Interface\\YiSha.Cache.Interface.csproj"
+              "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Cache\\YiSha.Cache.Interface\\YiSha.Cache.Interface.csproj": {
+                "projectPath": "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Cache\\YiSha.Cache.Interface\\YiSha.Cache.Interface.csproj"
               },
-              "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Cache\\YiSha.MemoryCache\\YiSha.MemoryCache.csproj": {
-                "projectPath": "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Cache\\YiSha.MemoryCache\\YiSha.MemoryCache.csproj"
+              "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Cache\\YiSha.MemoryCache\\YiSha.MemoryCache.csproj": {
+                "projectPath": "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Cache\\YiSha.MemoryCache\\YiSha.MemoryCache.csproj"
               },
-              "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Cache\\YiSha.RedisCache\\YiSha.RedisCache.csproj": {
-                "projectPath": "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Cache\\YiSha.RedisCache\\YiSha.RedisCache.csproj"
+              "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Cache\\YiSha.RedisCache\\YiSha.RedisCache.csproj": {
+                "projectPath": "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Cache\\YiSha.RedisCache\\YiSha.RedisCache.csproj"
               },
-              "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Util\\YiSha.Util\\YiSha.Util.csproj": {
-                "projectPath": "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Util\\YiSha.Util\\YiSha.Util.csproj"
+              "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Util\\YiSha.Util\\YiSha.Util.csproj": {
+                "projectPath": "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Util\\YiSha.Util\\YiSha.Util.csproj"
               }
             }
           }
@@ -338,7 +372,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -347,21 +382,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Cache\\YiSha.Cache.Interface\\YiSha.Cache.Interface.csproj": {
+    "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Cache\\YiSha.Cache.Interface\\YiSha.Cache.Interface.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Cache\\YiSha.Cache.Interface\\YiSha.Cache.Interface.csproj",
+        "projectUniqueName": "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Cache\\YiSha.Cache.Interface\\YiSha.Cache.Interface.csproj",
         "projectName": "YiSha.Cache.Interface",
-        "projectPath": "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Cache\\YiSha.Cache.Interface\\YiSha.Cache.Interface.csproj",
-        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Cache\\YiSha.Cache.Interface\\obj\\",
+        "projectPath": "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Cache\\YiSha.Cache.Interface\\YiSha.Cache.Interface.csproj",
+        "packagesPath": "C:\\Users\\zcc\\.nuget\\packages\\",
+        "outputPath": "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Cache\\YiSha.Cache.Interface\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Software\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\zcc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -369,6 +408,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\Pakeage\\dm8_20221128_x86_win_64\\dm8_20221128_x86_win_64\\source\\drivers\\dotNet\\DmProvider": {},
+          "D:\\Pakeage\\dm8_20221128_x86_win_64\\dm8_20221128_x86_win_64\\source\\drivers\\dotNet\\EFCore.Dm5.0": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -392,7 +433,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -401,21 +443,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Cache\\YiSha.MemoryCache\\YiSha.MemoryCache.csproj": {
+    "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Cache\\YiSha.MemoryCache\\YiSha.MemoryCache.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Cache\\YiSha.MemoryCache\\YiSha.MemoryCache.csproj",
+        "projectUniqueName": "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Cache\\YiSha.MemoryCache\\YiSha.MemoryCache.csproj",
         "projectName": "YiSha.MemoryCache",
-        "projectPath": "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Cache\\YiSha.MemoryCache\\YiSha.MemoryCache.csproj",
-        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Cache\\YiSha.MemoryCache\\obj\\",
+        "projectPath": "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Cache\\YiSha.MemoryCache\\YiSha.MemoryCache.csproj",
+        "packagesPath": "C:\\Users\\zcc\\.nuget\\packages\\",
+        "outputPath": "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Cache\\YiSha.MemoryCache\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Software\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\zcc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -423,17 +469,19 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\Pakeage\\dm8_20221128_x86_win_64\\dm8_20221128_x86_win_64\\source\\drivers\\dotNet\\DmProvider": {},
+          "D:\\Pakeage\\dm8_20221128_x86_win_64\\dm8_20221128_x86_win_64\\source\\drivers\\dotNet\\EFCore.Dm5.0": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Cache\\YiSha.Cache.Interface\\YiSha.Cache.Interface.csproj": {
-                "projectPath": "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Cache\\YiSha.Cache.Interface\\YiSha.Cache.Interface.csproj"
+              "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Cache\\YiSha.Cache.Interface\\YiSha.Cache.Interface.csproj": {
+                "projectPath": "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Cache\\YiSha.Cache.Interface\\YiSha.Cache.Interface.csproj"
               },
-              "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Util\\YiSha.Util\\YiSha.Util.csproj": {
-                "projectPath": "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Util\\YiSha.Util\\YiSha.Util.csproj"
+              "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Util\\YiSha.Util\\YiSha.Util.csproj": {
+                "projectPath": "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Util\\YiSha.Util\\YiSha.Util.csproj"
               }
             }
           }
@@ -459,7 +507,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -468,21 +517,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Cache\\YiSha.RedisCache\\YiSha.RedisCache.csproj": {
+    "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Cache\\YiSha.RedisCache\\YiSha.RedisCache.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Cache\\YiSha.RedisCache\\YiSha.RedisCache.csproj",
+        "projectUniqueName": "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Cache\\YiSha.RedisCache\\YiSha.RedisCache.csproj",
         "projectName": "YiSha.RedisCache",
-        "projectPath": "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Cache\\YiSha.RedisCache\\YiSha.RedisCache.csproj",
-        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Cache\\YiSha.RedisCache\\obj\\",
+        "projectPath": "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Cache\\YiSha.RedisCache\\YiSha.RedisCache.csproj",
+        "packagesPath": "C:\\Users\\zcc\\.nuget\\packages\\",
+        "outputPath": "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Cache\\YiSha.RedisCache\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Software\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\zcc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -490,17 +543,19 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\Pakeage\\dm8_20221128_x86_win_64\\dm8_20221128_x86_win_64\\source\\drivers\\dotNet\\DmProvider": {},
+          "D:\\Pakeage\\dm8_20221128_x86_win_64\\dm8_20221128_x86_win_64\\source\\drivers\\dotNet\\EFCore.Dm5.0": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Cache\\YiSha.Cache.Interface\\YiSha.Cache.Interface.csproj": {
-                "projectPath": "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Cache\\YiSha.Cache.Interface\\YiSha.Cache.Interface.csproj"
+              "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Cache\\YiSha.Cache.Interface\\YiSha.Cache.Interface.csproj": {
+                "projectPath": "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Cache\\YiSha.Cache.Interface\\YiSha.Cache.Interface.csproj"
               },
-              "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Util\\YiSha.Util\\YiSha.Util.csproj": {
-                "projectPath": "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Util\\YiSha.Util\\YiSha.Util.csproj"
+              "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Util\\YiSha.Util\\YiSha.Util.csproj": {
+                "projectPath": "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Util\\YiSha.Util\\YiSha.Util.csproj"
               }
             }
           }
@@ -526,7 +581,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -535,21 +591,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Data\\YiSha.Data.EF\\YiSha.Data.EF.csproj": {
+    "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Data\\YiSha.Data.EF\\YiSha.Data.EF.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Data\\YiSha.Data.EF\\YiSha.Data.EF.csproj",
+        "projectUniqueName": "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Data\\YiSha.Data.EF\\YiSha.Data.EF.csproj",
         "projectName": "YiSha.Data.EF",
-        "projectPath": "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Data\\YiSha.Data.EF\\YiSha.Data.EF.csproj",
-        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Data\\YiSha.Data.EF\\obj\\",
+        "projectPath": "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Data\\YiSha.Data.EF\\YiSha.Data.EF.csproj",
+        "packagesPath": "C:\\Users\\zcc\\.nuget\\packages\\",
+        "outputPath": "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Data\\YiSha.Data.EF\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Software\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\zcc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -557,17 +617,19 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\Pakeage\\dm8_20221128_x86_win_64\\dm8_20221128_x86_win_64\\source\\drivers\\dotNet\\DmProvider": {},
+          "D:\\Pakeage\\dm8_20221128_x86_win_64\\dm8_20221128_x86_win_64\\source\\drivers\\dotNet\\EFCore.Dm5.0": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Data\\YiSha.Data\\YiSha.Data.csproj": {
-                "projectPath": "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Data\\YiSha.Data\\YiSha.Data.csproj"
+              "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Data\\YiSha.Data\\YiSha.Data.csproj": {
+                "projectPath": "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Data\\YiSha.Data\\YiSha.Data.csproj"
               },
-              "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Util\\YiSha.Util\\YiSha.Util.csproj": {
-                "projectPath": "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Util\\YiSha.Util\\YiSha.Util.csproj"
+              "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Util\\YiSha.Util\\YiSha.Util.csproj": {
+                "projectPath": "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Util\\YiSha.Util\\YiSha.Util.csproj"
               }
             }
           }
@@ -601,7 +663,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -610,21 +673,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Data\\YiSha.Data.Repository\\YiSha.Data.Repository.csproj": {
+    "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Data\\YiSha.Data.Repository\\YiSha.Data.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Data\\YiSha.Data.Repository\\YiSha.Data.Repository.csproj",
+        "projectUniqueName": "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Data\\YiSha.Data.Repository\\YiSha.Data.Repository.csproj",
         "projectName": "YiSha.Data.Repository",
-        "projectPath": "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Data\\YiSha.Data.Repository\\YiSha.Data.Repository.csproj",
-        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Data\\YiSha.Data.Repository\\obj\\",
+        "projectPath": "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Data\\YiSha.Data.Repository\\YiSha.Data.Repository.csproj",
+        "packagesPath": "C:\\Users\\zcc\\.nuget\\packages\\",
+        "outputPath": "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Data\\YiSha.Data.Repository\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Software\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\zcc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -632,20 +699,22 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\Pakeage\\dm8_20221128_x86_win_64\\dm8_20221128_x86_win_64\\source\\drivers\\dotNet\\DmProvider": {},
+          "D:\\Pakeage\\dm8_20221128_x86_win_64\\dm8_20221128_x86_win_64\\source\\drivers\\dotNet\\EFCore.Dm5.0": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Data\\YiSha.Data.EF\\YiSha.Data.EF.csproj": {
-                "projectPath": "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Data\\YiSha.Data.EF\\YiSha.Data.EF.csproj"
+              "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Data\\YiSha.Data.EF\\YiSha.Data.EF.csproj": {
+                "projectPath": "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Data\\YiSha.Data.EF\\YiSha.Data.EF.csproj"
               },
-              "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Data\\YiSha.Data\\YiSha.Data.csproj": {
-                "projectPath": "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Data\\YiSha.Data\\YiSha.Data.csproj"
+              "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Data\\YiSha.Data\\YiSha.Data.csproj": {
+                "projectPath": "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Data\\YiSha.Data\\YiSha.Data.csproj"
               },
-              "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Util\\YiSha.Util\\YiSha.Util.csproj": {
-                "projectPath": "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Util\\YiSha.Util\\YiSha.Util.csproj"
+              "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Util\\YiSha.Util\\YiSha.Util.csproj": {
+                "projectPath": "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Util\\YiSha.Util\\YiSha.Util.csproj"
               }
             }
           }
@@ -665,7 +734,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -674,21 +744,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Data\\YiSha.Data\\YiSha.Data.csproj": {
+    "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Data\\YiSha.Data\\YiSha.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Data\\YiSha.Data\\YiSha.Data.csproj",
+        "projectUniqueName": "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Data\\YiSha.Data\\YiSha.Data.csproj",
         "projectName": "YiSha.Data",
-        "projectPath": "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Data\\YiSha.Data\\YiSha.Data.csproj",
-        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Data\\YiSha.Data\\obj\\",
+        "projectPath": "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Data\\YiSha.Data\\YiSha.Data.csproj",
+        "packagesPath": "C:\\Users\\zcc\\.nuget\\packages\\",
+        "outputPath": "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Data\\YiSha.Data\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Software\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\zcc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -696,14 +770,16 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\Pakeage\\dm8_20221128_x86_win_64\\dm8_20221128_x86_win_64\\source\\drivers\\dotNet\\DmProvider": {},
+          "D:\\Pakeage\\dm8_20221128_x86_win_64\\dm8_20221128_x86_win_64\\source\\drivers\\dotNet\\EFCore.Dm5.0": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Util\\YiSha.Util\\YiSha.Util.csproj": {
-                "projectPath": "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Util\\YiSha.Util\\YiSha.Util.csproj"
+              "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Util\\YiSha.Util\\YiSha.Util.csproj": {
+                "projectPath": "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Util\\YiSha.Util\\YiSha.Util.csproj"
               }
             }
           }
@@ -737,7 +813,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -746,21 +823,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Entity\\YiSha.Entity\\YiSha.Entity.csproj": {
+    "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Entity\\YiSha.Entity\\YiSha.Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Entity\\YiSha.Entity\\YiSha.Entity.csproj",
+        "projectUniqueName": "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Entity\\YiSha.Entity\\YiSha.Entity.csproj",
         "projectName": "YiSha.Entity",
-        "projectPath": "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Entity\\YiSha.Entity\\YiSha.Entity.csproj",
-        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Entity\\YiSha.Entity\\obj\\",
+        "projectPath": "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Entity\\YiSha.Entity\\YiSha.Entity.csproj",
+        "packagesPath": "C:\\Users\\zcc\\.nuget\\packages\\",
+        "outputPath": "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Entity\\YiSha.Entity\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Software\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\zcc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -768,20 +849,22 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\Pakeage\\dm8_20221128_x86_win_64\\dm8_20221128_x86_win_64\\source\\drivers\\dotNet\\DmProvider": {},
+          "D:\\Pakeage\\dm8_20221128_x86_win_64\\dm8_20221128_x86_win_64\\source\\drivers\\dotNet\\EFCore.Dm5.0": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Util\\YiSha.IdGenerator\\YiSha.IdGenerator.csproj": {
-                "projectPath": "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Util\\YiSha.IdGenerator\\YiSha.IdGenerator.csproj"
+              "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Util\\YiSha.IdGenerator\\YiSha.IdGenerator.csproj": {
+                "projectPath": "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Util\\YiSha.IdGenerator\\YiSha.IdGenerator.csproj"
               },
-              "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Util\\YiSha.Util\\YiSha.Util.csproj": {
-                "projectPath": "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Util\\YiSha.Util\\YiSha.Util.csproj"
+              "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Util\\YiSha.Util\\YiSha.Util.csproj": {
+                "projectPath": "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Util\\YiSha.Util\\YiSha.Util.csproj"
               },
-              "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Web\\YiSha.Web.Code\\YiSha.Web.Code.csproj": {
-                "projectPath": "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Web\\YiSha.Web.Code\\YiSha.Web.Code.csproj"
+              "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Web\\YiSha.Web.Code\\YiSha.Web.Code.csproj": {
+                "projectPath": "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Web\\YiSha.Web.Code\\YiSha.Web.Code.csproj"
               }
             }
           }
@@ -801,7 +884,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -810,21 +894,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Entity\\YiSha.Enum\\YiSha.Enum.csproj": {
+    "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Entity\\YiSha.Enum\\YiSha.Enum.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Entity\\YiSha.Enum\\YiSha.Enum.csproj",
+        "projectUniqueName": "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Entity\\YiSha.Enum\\YiSha.Enum.csproj",
         "projectName": "YiSha.Enum",
-        "projectPath": "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Entity\\YiSha.Enum\\YiSha.Enum.csproj",
-        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Entity\\YiSha.Enum\\obj\\",
+        "projectPath": "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Entity\\YiSha.Enum\\YiSha.Enum.csproj",
+        "packagesPath": "C:\\Users\\zcc\\.nuget\\packages\\",
+        "outputPath": "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Entity\\YiSha.Enum\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Software\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\zcc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -832,6 +920,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\Pakeage\\dm8_20221128_x86_win_64\\dm8_20221128_x86_win_64\\source\\drivers\\dotNet\\DmProvider": {},
+          "D:\\Pakeage\\dm8_20221128_x86_win_64\\dm8_20221128_x86_win_64\\source\\drivers\\dotNet\\EFCore.Dm5.0": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -855,7 +945,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -864,21 +955,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Entity\\YiSha.Model\\YiSha.Model.csproj": {
+    "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Entity\\YiSha.Model\\YiSha.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Entity\\YiSha.Model\\YiSha.Model.csproj",
+        "projectUniqueName": "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Entity\\YiSha.Model\\YiSha.Model.csproj",
         "projectName": "YiSha.Model",
-        "projectPath": "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Entity\\YiSha.Model\\YiSha.Model.csproj",
-        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Entity\\YiSha.Model\\obj\\",
+        "projectPath": "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Entity\\YiSha.Model\\YiSha.Model.csproj",
+        "packagesPath": "C:\\Users\\zcc\\.nuget\\packages\\",
+        "outputPath": "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Entity\\YiSha.Model\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Software\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\zcc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -886,17 +981,19 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\Pakeage\\dm8_20221128_x86_win_64\\dm8_20221128_x86_win_64\\source\\drivers\\dotNet\\DmProvider": {},
+          "D:\\Pakeage\\dm8_20221128_x86_win_64\\dm8_20221128_x86_win_64\\source\\drivers\\dotNet\\EFCore.Dm5.0": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Entity\\YiSha.Entity\\YiSha.Entity.csproj": {
-                "projectPath": "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Entity\\YiSha.Entity\\YiSha.Entity.csproj"
+              "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Entity\\YiSha.Entity\\YiSha.Entity.csproj": {
+                "projectPath": "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Entity\\YiSha.Entity\\YiSha.Entity.csproj"
               },
-              "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Util\\YiSha.Util\\YiSha.Util.csproj": {
-                "projectPath": "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Util\\YiSha.Util\\YiSha.Util.csproj"
+              "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Util\\YiSha.Util\\YiSha.Util.csproj": {
+                "projectPath": "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Util\\YiSha.Util\\YiSha.Util.csproj"
               }
             }
           }
@@ -916,7 +1013,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -925,21 +1023,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Util\\YiSha.CodeGenerator\\YiSha.CodeGenerator.csproj": {
+    "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Util\\YiSha.CodeGenerator\\YiSha.CodeGenerator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Util\\YiSha.CodeGenerator\\YiSha.CodeGenerator.csproj",
+        "projectUniqueName": "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Util\\YiSha.CodeGenerator\\YiSha.CodeGenerator.csproj",
         "projectName": "YiSha.CodeGenerator",
-        "projectPath": "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Util\\YiSha.CodeGenerator\\YiSha.CodeGenerator.csproj",
-        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Util\\YiSha.CodeGenerator\\obj\\",
+        "projectPath": "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Util\\YiSha.CodeGenerator\\YiSha.CodeGenerator.csproj",
+        "packagesPath": "C:\\Users\\zcc\\.nuget\\packages\\",
+        "outputPath": "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Util\\YiSha.CodeGenerator\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Software\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\zcc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -947,23 +1049,25 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\Pakeage\\dm8_20221128_x86_win_64\\dm8_20221128_x86_win_64\\source\\drivers\\dotNet\\DmProvider": {},
+          "D:\\Pakeage\\dm8_20221128_x86_win_64\\dm8_20221128_x86_win_64\\source\\drivers\\dotNet\\EFCore.Dm5.0": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Business\\YiSha.Business.Cache\\YiSha.Business.Cache.csproj": {
-                "projectPath": "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Business\\YiSha.Business.Cache\\YiSha.Business.Cache.csproj"
+              "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Business\\YiSha.Business.Cache\\YiSha.Business.Cache.csproj": {
+                "projectPath": "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Business\\YiSha.Business.Cache\\YiSha.Business.Cache.csproj"
               },
-              "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Data\\YiSha.Data.Repository\\YiSha.Data.Repository.csproj": {
-                "projectPath": "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Data\\YiSha.Data.Repository\\YiSha.Data.Repository.csproj"
+              "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Data\\YiSha.Data.Repository\\YiSha.Data.Repository.csproj": {
+                "projectPath": "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Data\\YiSha.Data.Repository\\YiSha.Data.Repository.csproj"
               },
-              "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Entity\\YiSha.Entity\\YiSha.Entity.csproj": {
-                "projectPath": "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Entity\\YiSha.Entity\\YiSha.Entity.csproj"
+              "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Entity\\YiSha.Entity\\YiSha.Entity.csproj": {
+                "projectPath": "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Entity\\YiSha.Entity\\YiSha.Entity.csproj"
               },
-              "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Util\\YiSha.Util\\YiSha.Util.csproj": {
-                "projectPath": "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Util\\YiSha.Util\\YiSha.Util.csproj"
+              "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Util\\YiSha.Util\\YiSha.Util.csproj": {
+                "projectPath": "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Util\\YiSha.Util\\YiSha.Util.csproj"
               }
             }
           }
@@ -989,7 +1093,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -998,21 +1103,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Util\\YiSha.IdGenerator\\YiSha.IdGenerator.csproj": {
+    "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Util\\YiSha.IdGenerator\\YiSha.IdGenerator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Util\\YiSha.IdGenerator\\YiSha.IdGenerator.csproj",
+        "projectUniqueName": "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Util\\YiSha.IdGenerator\\YiSha.IdGenerator.csproj",
         "projectName": "YiSha.IdGenerator",
-        "projectPath": "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Util\\YiSha.IdGenerator\\YiSha.IdGenerator.csproj",
-        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Util\\YiSha.IdGenerator\\obj\\",
+        "projectPath": "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Util\\YiSha.IdGenerator\\YiSha.IdGenerator.csproj",
+        "packagesPath": "C:\\Users\\zcc\\.nuget\\packages\\",
+        "outputPath": "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Util\\YiSha.IdGenerator\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Software\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\zcc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -1020,14 +1129,16 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\Pakeage\\dm8_20221128_x86_win_64\\dm8_20221128_x86_win_64\\source\\drivers\\dotNet\\DmProvider": {},
+          "D:\\Pakeage\\dm8_20221128_x86_win_64\\dm8_20221128_x86_win_64\\source\\drivers\\dotNet\\EFCore.Dm5.0": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Util\\YiSha.Util\\YiSha.Util.csproj": {
-                "projectPath": "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Util\\YiSha.Util\\YiSha.Util.csproj"
+              "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Util\\YiSha.Util\\YiSha.Util.csproj": {
+                "projectPath": "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Util\\YiSha.Util\\YiSha.Util.csproj"
               }
             }
           }
@@ -1047,7 +1158,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -1056,21 +1168,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Util\\YiSha.Util\\YiSha.Util.csproj": {
+    "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Util\\YiSha.Util\\YiSha.Util.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Util\\YiSha.Util\\YiSha.Util.csproj",
+        "projectUniqueName": "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Util\\YiSha.Util\\YiSha.Util.csproj",
         "projectName": "YiSha.Util",
-        "projectPath": "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Util\\YiSha.Util\\YiSha.Util.csproj",
-        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Util\\YiSha.Util\\obj\\",
+        "projectPath": "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Util\\YiSha.Util\\YiSha.Util.csproj",
+        "packagesPath": "C:\\Users\\zcc\\.nuget\\packages\\",
+        "outputPath": "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Util\\YiSha.Util\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Software\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\zcc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -1078,14 +1194,16 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\Pakeage\\dm8_20221128_x86_win_64\\dm8_20221128_x86_win_64\\source\\drivers\\dotNet\\DmProvider": {},
+          "D:\\Pakeage\\dm8_20221128_x86_win_64\\dm8_20221128_x86_win_64\\source\\drivers\\dotNet\\EFCore.Dm5.0": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Entity\\YiSha.Enum\\YiSha.Enum.csproj": {
-                "projectPath": "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Entity\\YiSha.Enum\\YiSha.Enum.csproj"
+              "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Entity\\YiSha.Enum\\YiSha.Enum.csproj": {
+                "projectPath": "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Entity\\YiSha.Enum\\YiSha.Enum.csproj"
               }
             }
           }
@@ -1129,7 +1247,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -1141,21 +1260,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Web\\YiSha.Web.Code\\YiSha.Web.Code.csproj": {
+    "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Web\\YiSha.Web.Code\\YiSha.Web.Code.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Web\\YiSha.Web.Code\\YiSha.Web.Code.csproj",
+        "projectUniqueName": "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Web\\YiSha.Web.Code\\YiSha.Web.Code.csproj",
         "projectName": "YiSha.Web.Code",
-        "projectPath": "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Web\\YiSha.Web.Code\\YiSha.Web.Code.csproj",
-        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Web\\YiSha.Web.Code\\obj\\",
+        "projectPath": "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Web\\YiSha.Web.Code\\YiSha.Web.Code.csproj",
+        "packagesPath": "C:\\Users\\zcc\\.nuget\\packages\\",
+        "outputPath": "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Web\\YiSha.Web.Code\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Software\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\zcc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -1163,20 +1286,22 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\Pakeage\\dm8_20221128_x86_win_64\\dm8_20221128_x86_win_64\\source\\drivers\\dotNet\\DmProvider": {},
+          "D:\\Pakeage\\dm8_20221128_x86_win_64\\dm8_20221128_x86_win_64\\source\\drivers\\dotNet\\EFCore.Dm5.0": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Cache\\YiSha.Cache.Factory\\YiSha.Cache.Factory.csproj": {
-                "projectPath": "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Cache\\YiSha.Cache.Factory\\YiSha.Cache.Factory.csproj"
+              "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Cache\\YiSha.Cache.Factory\\YiSha.Cache.Factory.csproj": {
+                "projectPath": "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Cache\\YiSha.Cache.Factory\\YiSha.Cache.Factory.csproj"
               },
-              "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Data\\YiSha.Data.Repository\\YiSha.Data.Repository.csproj": {
-                "projectPath": "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Data\\YiSha.Data.Repository\\YiSha.Data.Repository.csproj"
+              "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Data\\YiSha.Data.Repository\\YiSha.Data.Repository.csproj": {
+                "projectPath": "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Data\\YiSha.Data.Repository\\YiSha.Data.Repository.csproj"
               },
-              "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Util\\YiSha.Util\\YiSha.Util.csproj": {
-                "projectPath": "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Util\\YiSha.Util\\YiSha.Util.csproj"
+              "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Util\\YiSha.Util\\YiSha.Util.csproj": {
+                "projectPath": "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Util\\YiSha.Util\\YiSha.Util.csproj"
               }
             }
           }
@@ -1196,7 +1321,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -1205,7 +1331,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -15,3 +15,13 @@ E:\源码\AKStreamWebUI\AKStreamWebUI\YiSha.Cache\YiSha.Cache.Interface\obj\Debu
 E:\源码\AKStreamWebUI\AKStreamWebUI\YiSha.Cache\YiSha.Cache.Interface\obj\Debug\netcoreapp3.1\YiSha.Cache.Interface.AssemblyInfoInputs.cache
 E:\源码\AKStreamWebUI\AKStreamWebUI\YiSha.Cache\YiSha.Cache.Interface\obj\Debug\netcoreapp3.1\YiSha.Cache.Interface.AssemblyInfo.cs
 E:\源码\AKStreamWebUI\AKStreamWebUI\YiSha.Cache\YiSha.Cache.Interface\obj\Debug\netcoreapp3.1\YiSha.Cache.Interface.csproj.CoreCompileInputs.cache
+D:\TestCode\vue\AKStreamWebUI\YiSha.Cache\YiSha.Cache.Interface\bin\Debug\netcoreapp3.1\YiSha.Cache.Interface.deps.json
+D:\TestCode\vue\AKStreamWebUI\YiSha.Cache\YiSha.Cache.Interface\bin\Debug\netcoreapp3.1\YiSha.Cache.Interface.dll
+D:\TestCode\vue\AKStreamWebUI\YiSha.Cache\YiSha.Cache.Interface\bin\Debug\netcoreapp3.1\YiSha.Cache.Interface.pdb
+D:\TestCode\vue\AKStreamWebUI\YiSha.Cache\YiSha.Cache.Interface\obj\Debug\netcoreapp3.1\YiSha.Cache.Interface.csproj.AssemblyReference.cache
+D:\TestCode\vue\AKStreamWebUI\YiSha.Cache\YiSha.Cache.Interface\obj\Debug\netcoreapp3.1\YiSha.Cache.Interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\TestCode\vue\AKStreamWebUI\YiSha.Cache\YiSha.Cache.Interface\obj\Debug\netcoreapp3.1\YiSha.Cache.Interface.AssemblyInfoInputs.cache
+D:\TestCode\vue\AKStreamWebUI\YiSha.Cache\YiSha.Cache.Interface\obj\Debug\netcoreapp3.1\YiSha.Cache.Interface.AssemblyInfo.cs
+D:\TestCode\vue\AKStreamWebUI\YiSha.Cache\YiSha.Cache.Interface\obj\Debug\netcoreapp3.1\YiSha.Cache.Interface.csproj.CoreCompileInputs.cache
+D:\TestCode\vue\AKStreamWebUI\YiSha.Cache\YiSha.Cache.Interface\obj\Debug\netcoreapp3.1\YiSha.Cache.Interface.dll
+D:\TestCode\vue\AKStreamWebUI\YiSha.Cache\YiSha.Cache.Interface\obj\Debug\netcoreapp3.1\YiSha.Cache.Interface.pdb

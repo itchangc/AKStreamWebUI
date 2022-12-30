@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "i36XiBr5YnOXgDZMzrYt84Gz5ezJPwS11C4XnFX7evWXtk5sr1Z6p0oUAdFSB3ucNgMoKWIIQtZoo5+UjM5HLw==",
+  "dgSpecHash": "W7qealPIqcmQMTAn2fTccAAj0MmMrK348ajcl2CysPBdKpbvrJ87SttVLuw1Y9pN5hI0a+fOIdwC6+vTuBhoPw==",
   "success": true,
-  "projectFilePath": "E:\\源码\\AKStreamWebUI\\AKStreamWebUI\\YiSha.Entity\\YiSha.Enum\\YiSha.Enum.csproj",
+  "projectFilePath": "D:\\TestCode\\vue\\AKStreamWebUI\\YiSha.Entity\\YiSha.Enum\\YiSha.Enum.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

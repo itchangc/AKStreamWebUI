@@ -22,3 +22,16 @@ E:\源码\AKStreamWebUI\AKStreamWebUI\YiSha.Util\YiSha.Util\obj\Debug\netcoreapp
 E:\源码\AKStreamWebUI\AKStreamWebUI\YiSha.Util\YiSha.Util\obj\Debug\netcoreapp3.1\YiSha.Util.csproj.CopyComplete
 E:\源码\AKStreamWebUI\AKStreamWebUI\YiSha.Util\YiSha.Util\obj\Debug\netcoreapp3.1\YiSha.Util.dll
 E:\源码\AKStreamWebUI\AKStreamWebUI\YiSha.Util\YiSha.Util\obj\Debug\netcoreapp3.1\YiSha.Util.pdb
+D:\TestCode\vue\AKStreamWebUI\YiSha.Util\YiSha.Util\bin\Debug\netcoreapp3.1\YiSha.Util.deps.json
+D:\TestCode\vue\AKStreamWebUI\YiSha.Util\YiSha.Util\bin\Debug\netcoreapp3.1\YiSha.Util.dll
+D:\TestCode\vue\AKStreamWebUI\YiSha.Util\YiSha.Util\bin\Debug\netcoreapp3.1\YiSha.Util.pdb
+D:\TestCode\vue\AKStreamWebUI\YiSha.Util\YiSha.Util\bin\Debug\netcoreapp3.1\YiSha.Enum.dll
+D:\TestCode\vue\AKStreamWebUI\YiSha.Util\YiSha.Util\bin\Debug\netcoreapp3.1\YiSha.Enum.pdb
+D:\TestCode\vue\AKStreamWebUI\YiSha.Util\YiSha.Util\obj\Debug\netcoreapp3.1\YiSha.Util.csproj.AssemblyReference.cache
+D:\TestCode\vue\AKStreamWebUI\YiSha.Util\YiSha.Util\obj\Debug\netcoreapp3.1\YiSha.Util.GeneratedMSBuildEditorConfig.editorconfig
+D:\TestCode\vue\AKStreamWebUI\YiSha.Util\YiSha.Util\obj\Debug\netcoreapp3.1\YiSha.Util.AssemblyInfoInputs.cache
+D:\TestCode\vue\AKStreamWebUI\YiSha.Util\YiSha.Util\obj\Debug\netcoreapp3.1\YiSha.Util.AssemblyInfo.cs
+D:\TestCode\vue\AKStreamWebUI\YiSha.Util\YiSha.Util\obj\Debug\netcoreapp3.1\YiSha.Util.csproj.CoreCompileInputs.cache
+D:\TestCode\vue\AKStreamWebUI\YiSha.Util\YiSha.Util\obj\Debug\netcoreapp3.1\YiSha.Util.csproj.CopyComplete
+D:\TestCode\vue\AKStreamWebUI\YiSha.Util\YiSha.Util\obj\Debug\netcoreapp3.1\YiSha.Util.dll
+D:\TestCode\vue\AKStreamWebUI\YiSha.Util\YiSha.Util\obj\Debug\netcoreapp3.1\YiSha.Util.pdb
